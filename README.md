@@ -12,9 +12,7 @@ The folders in this repository contain all the files that were provided.The user
 
 Usage:
 
-When the user follows:
-
-[This Link](https://docs.google.com/document/d/16ia6W3twNzoMdvSvY5gVdoGjEpx-7NtsYIF1WOdzGLU/edit?usp=sharing) 
+When the user follows: [This Link](https://docs.google.com/document/d/16ia6W3twNzoMdvSvY5gVdoGjEpx-7NtsYIF1WOdzGLU/edit?usp=sharing) 
 
 They are taken to a google document which contains the "Reverse Engineering Code" Tutorial. From there it is easy to read and navigate.
 
